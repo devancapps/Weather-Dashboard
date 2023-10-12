@@ -10,6 +10,13 @@ document.getElementById('searchButton').addEventListener('click', () => {
     getWeatherData(city);
     const lon = longitudeInput.value;
     const lat = latitudeInput.value;
+
+    // Fade in animation
+    document.querySelector('.current-weather').classList.add('fadeIn');
+    const forecastItems = document.querySelectorAll('.forecast-item');
+    forecastItems.forEach(item => {
+        item.classList.add('fadeIn');
+    });
 });
 
 function saveWeatherDataToLocalStorage(city, data) {
