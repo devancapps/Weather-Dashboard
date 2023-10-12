@@ -2,6 +2,7 @@
 
 ## Description
 The Weather Dashboard is a web application that allows users to check the current weather and a five-day weather forecast for a specific city.
+<img width="1359" alt="Screenshot 2023-10-12 at 12 04 28 AM" src="https://github.com/devancapps/Weather-Dashboard/assets/145359970/794dcb16-8a83-428a-aff8-7a5a0a11e080">
 
 ## Features
 - Display the current weather conditions, including temperature, description, and an icon representing the weather.
@@ -14,6 +15,7 @@ The Weather Dashboard is a web application that allows users to check the curren
 - CSS
 - JavaScript
 - OpenWeatherMap API (for weather data)
+<img width="765" alt="Screenshot 2023-10-12 at 12 06 11 AM" src="https://github.com/devancapps/Weather-Dashboard/assets/145359970/02937ca3-2bc9-4a4c-904d-c3f4bb11a5d7">
 
 ## How to Use
 1. Open `index.html` in your web browser to access the Weather Dashboard.
